@@ -1,9 +1,6 @@
-### Hi there 👋
+Holis gente👋
 
-<!--
-**NoSoyUnaPaloma/NoSoyUnaPaloma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 
 - 🔭 Actualmente estudio el 4to semestre de TIC'S en la PFLC
 - 🌱 Trabajo en Windows 10
@@ -21,3 +18,5 @@ Here are some ideas to get you started:
 | 11:05-11:55 |     Física Salón 32    |  Matemáticas Salón 32  |    Inglés Salón 27   |     Inglés Salón 86    |   Historia Salón 32  |
 | 12:00-12:50 |  Matemáticas Salón 32  |     Inglés Salón 32    | Comunidades Salón 83 |  Matemáticas Salón 32  |          - -         |
 | 12:55-13:45 |           - -          |  Comunidades Salón 83  | Comunidades Salón 83 |           - -          |          - -         |
+
+Dylan me ayudo en el horario
