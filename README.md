@@ -1,4 +1,4 @@
-Holis gente👋
+Holis gente👋                                                                                    
 
 Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 
@@ -7,6 +7,9 @@ Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 - 🤔 Para mi, GitHub es una herramienta nueva que anteriormente no conocia
 - 📫 Discord: ComunistaAutista#5755
 - ⚡ NoSoyUnaPaloma es algo literal, no me vengan a preguntar si soy o no
+
+
+ ![](https://images.cooltext.com/5584258.png)
 
 |   Hora/Día  |          Lunes         |         Martes         |       Miércoles      |         Jueves         |        Viernes       |
 |:-----------:|:----------------------:|:----------------------:|:--------------------:|:----------------------:|:--------------------:|
@@ -19,4 +22,20 @@ Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 | 12:00-12:50 |  Matemáticas Salón 32  |     Inglés Salón 32    | Comunidades Salón 83 |  Matemáticas Salón 32  |          - -         |
 | 12:55-13:45 |           - -          |  Comunidades Salón 83  | Comunidades Salón 83 |           - -          |          - -         |
 
-Dylan me ayudo en el horario
+
+
+
+![](https://images.cooltext.com/5584257.png)
+
+
+
+
+
+
+
+
+
+
+
+
+OwO
