@@ -29,13 +29,3 @@ Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 
 
 
-
-
-
-
-
-
-
-
-
-OwO
