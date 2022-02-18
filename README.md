@@ -19,8 +19,8 @@ Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 |  9:45-10:35 |   Biología SA89 SA32   |    Historia Salón 32   |   Biología Salón 32  |    Historia Salón 32   |  Literatura Salón 32 |
 | 10:35-11:05 |         Receso         |         Receso         |        Receso        |         Receso         |        Receso        |
 | 11:05-11:55 |     Física Salón 32    |  Matemáticas Salón 32  |    Inglés Salón 27   |     Inglés Salón 86    |   Historia Salón 32  |
-| 12:00-12:50 |  Matemáticas Salón 32  |     Inglés Salón 32    | Comunidades Salón 83 |  Matemáticas Salón 32  |          - -         |
-| 12:55-13:45 |           - -          |  Comunidades Salón 83  | Comunidades Salón 83 |           - -          |          - -         |
+| 12:00-12:50 |  Matemáticas Salón 32  |     Inglés Salón 32    | Comunidades Salón 83 |         Fisica 32      |          - -         |
+| 12:55-13:45 |           - -          |  Comunidades Salón 83  | Comunidades Salón 83 |  Matemáticas Salón 32  |          - -         |
 
 
 
