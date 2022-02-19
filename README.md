@@ -26,6 +26,3 @@ Bienvenidos a el de perfil ✨NoSoyUnaPaloma✨
 
 
 ![](https://images.cooltext.com/5584257.png)
-
-
-
